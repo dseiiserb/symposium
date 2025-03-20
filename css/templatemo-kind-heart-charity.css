@@ -378,7 +378,7 @@ strong {
 }
 
 .gradient-text {
-  background: linear-gradient(to right, #0266d1, #84a0ee); /* Blue to White gradient */
+  background: linear-gradient(to right,#15727d, #bdc3d1); /* Blue to White gradient */
   -webkit-background-clip: text; /* Clips background to text */
   -webkit-text-fill-color: transparent; /* Makes text transparent to show gradient */
   display: inline-block; /* Ensures gradient applies properly */
