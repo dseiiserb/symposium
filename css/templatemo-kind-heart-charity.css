@@ -533,7 +533,7 @@ strong {
 .navbar-brand small {
   color: var(--secondary-color);
   display: block;
-  font-size: 18px;
+  font-size: 12px;
   line-height: normal;
   text-transform: uppercase;
 }
